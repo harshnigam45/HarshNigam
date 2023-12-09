@@ -1,3 +1,4 @@
+![ logo](https://github.com/harshnigam45/HarshNigam/blob/main/09.12.2023_23.00.05_REC.png)
 <h1 align="center">Hi 👋, I'm Harsh Nigam</h1>
 <h3 align="center">Debugger by day, dreamer by night, forging the bridges between imagination and functionality</h3>
 
