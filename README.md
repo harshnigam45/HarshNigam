@@ -1,4 +1,4 @@
-<img align="center" alt="coding" height="300" width="800" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+!logo["D:\Downloads\pexels-antonio-batinić-4164418 (1).jpg"]
 <h1 align="center">Hi 👋, I'm Harsh Nigam</h1>
 <h2 align="center">Debugger by Day and Dreamer by Night</h2>
 
