@@ -1,4 +1,4 @@
-!logo["D:\Downloads\pexels-antonio-batinić-4164418 (1).jpg"]
+![logo]("")
 <h1 align="center">Hi 👋, I'm Harsh Nigam</h1>
 <h2 align="center">Debugger by Day and Dreamer by Night</h2>
 
