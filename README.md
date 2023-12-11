@@ -1,4 +1,4 @@
-<img align="center" alt="coding" height="400" width="800" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="center" alt="coding" height="400" width="800" src="https://github.com/harshnigam45/harshnigam45/blob/main/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg">
 <h1 align="center">Hi 👋, I'm Harsh Nigam</h1>
 <h2 align="center">Debugger by Day and Dreamer by Night</h2>
 
